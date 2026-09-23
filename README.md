@@ -1,2 +1,2 @@
 # ACCT-404-sales-analysis-demo
-sample accounting 404 sales analytics project 
+This project analyze sample sale using python jupyter notebook
